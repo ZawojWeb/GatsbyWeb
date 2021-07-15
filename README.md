@@ -5,7 +5,7 @@
 * GraphQL
 * Gatsby - image
 * Creat blog post with MDX file
-* Then blog and all sites conetec with Headless CMS Dato CMS
+* Then blog and all sites is conetec with Headless CMS Dato CMS
 * Deploy to Netlify (But now isn't exist)
 
 Website is easy to develop. Add mobile frendly layout, more styles and animation.
